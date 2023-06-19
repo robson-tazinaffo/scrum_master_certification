@@ -3,9 +3,7 @@
 <div><center>
 <img align="center" alt="Scrum" height="150" width="150" src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" />
 </div>
-```
 Chegou a hora de você dominar e entender todos os fundamentos do Scrum, um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos. A gestão ágil com Scrum permite um desenvolvimento flexível, iterativo e incremental de novos produtos e serviços, sempre promovendo uma cultura voltada ao aprendizado, melhoria contínua e aproximação com o cliente. 🚀
-```
 
 
 
