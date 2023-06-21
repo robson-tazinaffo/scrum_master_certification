@@ -3,6 +3,8 @@
 <div><center>
 <img align="center" alt="Scrum" height="150" width="150" src="https://hermes.dio.me/tracks/ce836317-7430-419d-850e-9d113e607b2e.png" />
 </div>
+
+
 ## Tecnologias utilizadas nos projetos
 
 <div style="display: inline_block">
@@ -14,7 +16,7 @@
 
 **Neste Desafio teremos que completar o Framework Scrum. Sendo assim, os objetivos neste Desafio de Projeto serão: fixar os pilares e valores do Scrum, bem como reforçar os aspectos fundamentais do Framework Scrum: Responsabilidades, Eventos e Artefatos.**
 
-![](images\Mauro Robson Tazinaffo-Desafio de Projeto - SCRUM.jpg)
+![](.\images\Mauro Robson Tazinaffo-Desafio de Projeto - SCRUM.jpg)
 
 
 
