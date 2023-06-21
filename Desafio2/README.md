@@ -32,5 +32,3 @@
 [Clique aqui](https://miro.com/app/board/uXjVM9vGcDI=/?share_link_id=636810714309) para visualizar o projeto no miro.
 
 
-
-[Projeto](https://miro.com/app/board/uXjVM9vGcDI=/?share_link_id=636810714309/)
