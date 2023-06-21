@@ -16,7 +16,7 @@
 
 **Neste Desafio teremos que completar o Framework Scrum. Sendo assim, os objetivos neste Desafio de Projeto serão: fixar os pilares e valores do Scrum, bem como reforçar os aspectos fundamentais do Framework Scrum: Responsabilidades, Eventos e Artefatos.**
 
-![](.\images\Mauro Robson Tazinaffo-Desafio de Projeto - SCRUM.jpg)
+![](.\images\SCRUM.jpg)
 
 
 
